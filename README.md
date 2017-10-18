@@ -1,6 +1,6 @@
 # The Switch
 
-## You Assignment
+## Your Assignment
 
 Given the HTML and CSS as provided, use Javascript to listen for the click of the `#switch` and meet the following criteria:
 
