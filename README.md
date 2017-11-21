@@ -21,3 +21,7 @@ Start with small steps:
 5. Combine the above steps to solve the problem:
   - use an `if` statement to check the state and change the text
   - you should be able to click the `#switch` many times and it should change between light and dark modes
+
+## Caution
+
+Both "switch" and "status" are reserved Javascript keywords, and therefore can not be used as variable names.
